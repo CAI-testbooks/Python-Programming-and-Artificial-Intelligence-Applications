@@ -1,0 +1,15 @@
+{
+    "name": "Tom",
+    "age": 19,
+    "isStudent": true,
+    "courses": [
+        "Python",
+        "Math",
+        "AI"
+    ],
+    "address": {
+        "city": "Nanjing",
+        "province": "Jiangsu"
+    },
+    "graduated": null
+}
