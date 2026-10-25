@@ -5,7 +5,7 @@
 本书章节结构图如下：
 
 <div align="center">
-  <img width="492" height="465" alt="本书章节结构图" src="683911913-0aff34eb-9db2-4023-89c0-e6651ccf274d.png" />
+  <img width="492" height="465" alt="本书架构图" src="https://github.com/user-attachments/assets/0aff34eb-9db2-4023-89c0-e6651ccf274d" />
 </div>
 
 ---
@@ -57,7 +57,7 @@
 
 如果你需要回顾 **Python编程基础**，欢迎访问本教材的上册配套仓库。该仓库系统讲解从环境配置、语法精要、面向对象设计到数据库、GUI、网络爬虫及NumPy/Pandas/Matplotlib数据分析与可视化的完整知识链。
 
-👉 **[点击跳转：Python编程基础篇教学仓库](./README.md)**
+👉 **[点击跳转：Python编程基础篇教学仓库](../Python编程基础篇/README.md)**
 
 ---
 
