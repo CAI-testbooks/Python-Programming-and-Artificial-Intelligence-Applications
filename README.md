@@ -42,14 +42,6 @@
 
 ---
 
-## 🎤 企业讲座 (Guest Lectures)
-
-| 主题 | 课件 (Slides) | 视频回放 (Video) |
-| :--- | :---: | :---: |
-| **Python与人工智能应用概述** | [Slides](#) | |
-| **国产深度学习框架（Jittor/MindSpore）前沿技术** | [Slides](#) | [📺 待上传](#) / [🔗 Link](#) |
-
----
 
 ## 🧩 进阶学习：人工智能应用篇 (AI Applications)
 
