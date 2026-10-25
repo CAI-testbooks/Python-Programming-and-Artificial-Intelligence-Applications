@@ -5,7 +5,7 @@
 本书章节结构图如下：
 
 <div align="center">
-  <img width="492" height="465" alt="本书章节结构图" src="https://github.com/user-attachments/assets/0aff34eb-9db2-4023-89c0-e6651ccf274d" />
+  <img width="492" height="465" alt="本书章节结构图" src="683911913-0aff34eb-9db2-4023-89c0-e6651ccf274d.png" />
 </div>
 
 ---
