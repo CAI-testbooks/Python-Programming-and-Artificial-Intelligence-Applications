@@ -1,0 +1,11 @@
+p41/pdf53:
+注释错误，与代码不匹配
+
+p42/pdf54:
+注释错误，与代码不匹配
+
+p116/pdf104:NameError: name 'name' is not defined
+类的实例方法内部不能直接写name。name是实例属性，存在实例对象self里面，应写self.name
+
+p119/pdf107:
+变量是lion，print 写成a.__dict__，实际应是lion.__dict__
